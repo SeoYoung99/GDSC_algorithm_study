@@ -1,3 +1,5 @@
+#####메모리 초과.....######
+
 # def HideandSeek(n,k):
 # 	if n+1 == k or n-1 == k or 2*n == k:
 # 		return
